@@ -1,0 +1,140 @@
+/*BismiLILLAH*/
+
+p{
+	line-height: 1px;
+	font-family: arial;
+
+}
+.center{
+	text-align: center;
+}
+table {
+	margin: auto;
+	height: 10px;
+}
+table tr td{
+	line-height: 5px;
+	height: 2px;
+}
+img{
+	width: 100px;
+}
+tr:active{
+	outline: none;
+}
+.H,.C,.N,.O,.P,.S,.Se{
+	background-color: #9c96c3;
+}
+.Sc,.Ti,.V,.Cr,.Mn,.Fe,.Co,.Ni,.Cu,.Zn,.Y,.Zr,.Nb,.Mo,.Tc,.Ru,.Rh,.Pd,.Ag,.Cd,.Lu,.Hf,.Ta,.W,.Re,.Os,.Ir,.Pt,.Au,.Hg,.Lr,.Rf,.Db,.Sg,.Bh,.Hs,.Mt,.Ds,.Rg,.Cn
+{
+	background-color: #ebaa93;
+}
+.Li,.Na,.K,.Rb,.Cs,.Fr{
+	background-color: #b0d9ca; 
+}
+.Be,.Mg,.Ca,.Sr,.Ba,.Ra{
+	background-color: #d4eacb;
+}
+.B,.Si,.Ge,.As,.Sb,.Te,.Po{
+	background-color: #f2f8c7;
+}
+.Al,.Ga,.In,.Sn,.TI,.Pb,.Bi,.Nh,.Fl,.Mc,.Lv{
+	background-color: #f6d0a6;
+}
+.F,.Cl,.Br,.I,.At,.Ts{
+	background-color: #f5d888;
+}
+.He,.Ne,.Ar,.Kr,.Xe,.Rn,.Og{
+	background-color: #90b7d4;
+}
+.La,.Ce,.Pr,.Nd,.Pm,.Sm,.Eu,.Gd,.Tb,.Dy,.Ho,.Er,.Tm,.Yb{
+	background-color: #d88f96;
+}
+.Ac,.Th,.Pa,.U,.Np,.Pu,.Am,.Cm,.Bk,.Cf,.Es,.Fm,.Md,.No{
+	background-color: #b76d8d;
+}
+
+@media screen and (max-width: 1700px){
+	table tr td{
+		height: 100px;
+		width: 90px;
+	}
+
+	h2{
+		font-size: 18px;
+	}
+
+	p{
+		font-size: 14px;
+	}
+}
+
+@media screen and (max-width: 1500px){
+	table tr td{
+		height: 80px;
+		width: 70px;
+	}
+
+	h2{
+		font-size: 18px;
+	}
+
+	p{
+		font-size: 14px;
+	}
+}
+@media screen and (max-width: 1480px){
+	table tr td{
+		height: 80px;
+		width: 40px;
+	}
+
+	h2{
+		font-size: 15px;
+	}
+
+	p{
+		font-size: 12px;
+	}
+}
+@media screen and (max-width: 1300px){
+	table tr td{
+		height: 50px;
+		width: 20px;
+	}
+
+	h2{
+		font-size: 12px;
+	}
+
+	p{
+		font-size: 10px;
+	}
+}@media screen and (max-width: 1200px){
+	table tr td{
+		height: 12px;
+		width: 5px;
+	}
+
+	h2{
+		font-size: 10px;
+	}
+
+	p{
+		font-size: 5px;
+	}
+}
+@media screen and (max-width: 900px){
+	table tr td{
+		height: 10px;
+		width: 5px;
+	}
+
+	h2{
+		font-size: 5px;
+	}
+
+	p{
+		font-size: 3px;
+	}
+}
